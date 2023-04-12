@@ -6,8 +6,8 @@
 - A amostra abrange dados trimestrais de jan/1996 até dez/2021.
 
 - Considerações relevantes:
-  - O PIB, os gastos e o crédito possuem relação positiva com o PIB.
-  - A relação positiva de gastos e crédito com o PIB pode ser vista no curto prazo.
-  - A Selic e a dívida pública afetam o PIB negativamente no longo prazo.
+  - O PIB, os gastos e o crédito possuem relação positiva com o PIB segundo a Função Impulso-Resposta (IRF).
+  - A relação positiva dos gastos e crédito com o PIB, além do PIB consigo, perdura ao longo do tempo.
+  - A Selic e a dívida pública afetam o PIB negativamente no curto prazo, mas os efeitos dissipam pela IRF.
   - Políticas fiscais e monetárias expansionistas devem ser usadas para sustentar níveis de demanda.
-  - Deve-se tomar cuidado com o aumento da dívida pública e da Selic. 
+  - Deve-se tomar algum cuidado com o aumento da dívida pública e da Selic, sobretudo no curto prazo. 
