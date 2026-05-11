@@ -1,4 +1,4 @@
-# Análise das políticas anticíclicas no Brasil com VEC estrutural durante a pandemia
+# Análise das políticas anticíclicas no Brasil com VEC estrutural durante a pandemia da covid-19
 
 Este repositório apresenta um estudo econométrico desenvolvido para o TCC em Data Science e Analytics da USP/Esalq em R para analisar os impactos das políticas anticíclicas sobre o crescimento econômico brasileiro, com ênfase no período da pandemia da COVID-19.
 
