@@ -146,19 +146,6 @@ Os resultados indicam que:
 
 ---
 
-# Estrutura do Projeto
-
-```bash
-├── dados/
-├── scripts/
-│   └── vec_politicas_anticiclicas.R
-├── graficos/
-├── outputs/
-└── README.md
-```
-
----
-
 # Bibliotecas Utilizadas
 
 Principais pacotes utilizados no projeto:
