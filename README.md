@@ -1,6 +1,6 @@
-# Análise das Políticas Anticíclicas no Brasil com VEC/VECM
+# Análise das políticas anticíclicas no Brasil com VEC estrutural durante a pandemia
 
-Este repositório apresenta um estudo econométrico desenvolvido em R para analisar os impactos das políticas anticíclicas sobre o crescimento econômico brasileiro, com ênfase no período da pandemia da COVID-19.
+Este repositório apresenta um estudo econométrico desenvolvido para o TCC em Data Science e Analytics da USP/Esalq em R para analisar os impactos das políticas anticíclicas sobre o crescimento econômico brasileiro, com ênfase no período da pandemia da COVID-19.
 
 A pesquisa utiliza modelos Vetoriais com Correção de Erros (VEC/VECM), testes de estacionariedade, cointegração de Johansen e Funções Impulso-Resposta (IRF) para investigar as relações dinâmicas entre importantes variáveis macroeconômicas brasileiras. 
 
